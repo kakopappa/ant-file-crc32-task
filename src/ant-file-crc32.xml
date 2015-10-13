@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<antlib>
+   <typedef name="crc32" classname="com.androidbridge.FileCrc32Task"/>
+</antlib>
