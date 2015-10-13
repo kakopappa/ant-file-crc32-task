@@ -1,4 +1,4 @@
-# ANT FILE CRC32
+# ANT FILE CRC32 (modified issacg (https://bitbucket.org/issacg/ant-crc32/overview) to support files)
 
 Library for calculating file CRC32 hashes in ANT
 
